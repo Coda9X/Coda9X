@@ -4,6 +4,8 @@
   <br>Arshia Ezati (Coda)
 </h1>
 <h4 align="center">My name is Arshia and I’m a front-end web developer. On Github you will find all of the code snippets that I share.</h4>
+<br>
+<h3 align="center"><a href="https://discord.com/users/919756168048558120" target="_blank"><img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px"></a></h3>
 
 <br>
 
