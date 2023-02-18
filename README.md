@@ -2,7 +2,12 @@
 <h4 align="center">My name is Arshia and I’m a Front-end Web Developer. On <a href="https://github.com/Coda9X" target="_blank" title="Github">Github</a> you will find all of the code snippets that I share.</h4>
 <br>
 <h3 align="center">
-  <a href="https://discord.com/users/919756168048558120" target="_blank"><img width="20%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px"></a>
+  <a href="https://discord.com/users/919756168048558120" target="_blank">
+    <img width="40%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
+  </a>
+  <a href="https://discord.com/users/919756168048558120" target="_blank">
+    <img width="40%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=coda&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
+  </a>
 </h3>
 
 <br>
