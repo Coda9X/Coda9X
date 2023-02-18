@@ -1,5 +1,5 @@
 <h1 align="center"><br> <a href="https://itscoda.ir"><img src="./assets/coda.svg" alt="Coda" width="200" title="Coda"></a><br> Arshia Ezati (Coda)</h1>
-<h4 align="center">My name is Arshia and I’m a front-end web developer. On Github you will find all of the code snippets that I share.</h4>
+<h4 align="center">My name is Arshia and I’m a Front-end Web Developer. On <a href="https://github.com/Coda9X" target="_blank" title="Github">Github</a> you will find all of the code snippets that I share.</h4>
 <br>
 <h3 align="center">
   <a href="https://discord.com/users/919756168048558120" target="_blank"><img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px"></a>
