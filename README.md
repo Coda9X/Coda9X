@@ -1,7 +1,7 @@
 <h1 align="center"><br>&nbsp;<a href="https://itscoda.ir"><img src="./assets/coda.svg" alt="Coda" width="200" title="Coda"></a><br>&nbsp;Arshia Ezati (Coda)</h1>
 <h4 align="center">My name is Arshia and I’m a Front-end Web Developer. On <a href="https://github.com/Coda9X" target="_blank" title="Github">Github</a> you will find all of the code snippets that I share.</h4>
 <br>
-<div align="left" width="40%">
+<div align="center" width="40%">
   <div align="center" width="100%">
     <a href="https://discord.com/users/919756168048558120" target="_blank" class="img">
       <img width="40%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
@@ -17,7 +17,7 @@
 
 ## My expertise
 <br>
-<div align="right" width="40%">
+<div align="center" width="100%">
   <a href="https://vuejs.org/" target="_blank" title="VueJS">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50">
   </a>
