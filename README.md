@@ -30,9 +30,9 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50">
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50">
