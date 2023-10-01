@@ -222,7 +222,7 @@ label.error {
     font-size: 1rem
 }
 
-/* .tooltip.show {
+.tooltip.show {
     opacity: 0.9
 }
 
@@ -304,7 +304,7 @@ label.error {
 .tooltip-inner::after {
     content: "  ";
     white-space: pre
-} */
+}
 
 @media(max-width:585px) {
     .alert-coda {
