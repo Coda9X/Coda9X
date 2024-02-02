@@ -34,10 +34,6 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">
   </a>
   &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" title="HTML 5">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://redis.io/" target="_blank" title="Redis">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50">
   </a>
