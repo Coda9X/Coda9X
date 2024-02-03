@@ -46,10 +46,6 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50">
   </a>
   &nbsp;&nbsp;
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" title="Bootstrap">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" title="VueJS">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50">
   </a>
