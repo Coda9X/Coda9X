@@ -68,7 +68,7 @@
 <br clear="both">
 
 <div align="center">
-  <!-- df -->
+  <img align="right" src="./assets/counter.svg" alt="Coda" title="Coda">
 </div>
 
 ###
