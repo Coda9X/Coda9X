@@ -42,17 +42,21 @@
 
 ###
 
+<a href="https://github.com/Coda9X/" target="_blank">
+   <img width="100%" align="center" alt="Coda" src="./assets/banner.svg">
+</a>
+
+###
+
 <div align="center" style="display: flex;flex-direction: column;">
   <div align="center">
     <a href="https://discord.com/users/919756168048558120" target="_blank">
-      <img width="470" align="center" alt="Discord Status"
-        src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
+      <img width="470" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
     </a>
   </div>
   <div align="center">
     <a href="https://discord.com/users/919756168048558120" target="_blank">
-      <img width="470" align="center" alt="Weekly Stats"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=ICoda&layout=compact&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+      <img width="470" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ICoda&layout=compact&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
     </a>
   </div>
 </div>
