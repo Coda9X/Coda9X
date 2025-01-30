@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex;flex-direction: column;">
   <div align="center">
     <a href="https://discord.com/users/919756168048558120" target="_blank">
       <img width="40%" align="center" alt="Discord Status"
