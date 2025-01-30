@@ -68,7 +68,7 @@
 <br clear="both">
 
 <div align="center">
-  <img align="right" src="./assets/counter.svg" alt="Coda" title="Coda">
+  <img align="right" src="./assets/count.svg" alt="Coda" title="Coda">
 </div>
 
 ###
