@@ -43,7 +43,7 @@
 ###
 
 <a href="https://github.com/Coda9X/" target="_blank">
-   <img width="100%" align="center" alt="Coda" src="./assets/banner.svg">
+   <img width="100%" align="center" alt="Coda" src="./assets/banner.png">
 </a>
 
 ###
