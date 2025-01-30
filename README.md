@@ -1,73 +1,110 @@
-<h1 align="center"><br>&nbsp;<a href="https://itscoda.ir"><img src="./assets/coda.svg" alt="Coda" width="200" title="Coda"></a><br>&nbsp;Arshia Ezati (Coda)</h1>
-<h4 align="center">My name is Arshia and I’m a backend Web Developer. On <a href="https://github.com/Coda9X" target="_blank" title="Github">Github</a> you will find all of the code snippets that I share.</h4>
-<br>
-<div align="center" width="40%">
-  <div align="center" width="100%">
-    <a href="https://discord.com/users/919756168048558120" target="_blank" class="img">
-      <img width="40%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
-    </a>
-  </div>
-  <div align="center" width="100%">
-    <a href="https://discord.com/users/919756168048558120" target="_blank">
-      <img width="40%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ICoda&layout=compact&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-    </a>
-  </div>
-</div>
-<br>
+<br clear="both">
 
-## My expertise
-<br>
-<div align="center" width="100%">
-  <a href="https://www.cplusplus.com/" target="_blank" title="C++">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.javascript.com/" target="_blank" title="JavaScript">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank" title="Redis">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tailwindcss.com/" target="_blank" title="TailwindCSS">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vuejs.org/" target="_blank" title="VueJS">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wordpress.com/" target="_blank" title="WordPress">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50">
-  </a>
-</div>
-<br>
-
-## My social networks
-<br>
+<h1 align="center">Welcome Back!</h1>
 <div align="center">
-  <a href="https://www.instagram.com/_.itscoda">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://t.me/itscoda_ch">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/919756168048558120">
-    <img alt="Telegram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Coda9X&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true"
+    height="150" alt="stats graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Coda9X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true"
+    height="150" alt="languages graph" />
 </div>
+
+###
+
+<img src="./assets/coda.svg" alt="Coda" height="150" title="Coda">
+
+###
+
+<div align="left">
+  <a href="https://www.cplusplus.com/" target="_blank" title="C++"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30"></a>
+  <img width="12">
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30"></a>
+  <img width="12">
+  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="30"></a>
+  <img width="12">
+  <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"></a>
+  <img width="12">
+  <a href="https://redis.io/" target="_blank" title="Redis"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="30"></a>
+  <img width="12">
+  <a href="https://www.tailwindcss.com/" target="_blank" title="TailwindCSS"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30"></a>
+  <img width="12">
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30"></a>
+  <img width="12">
+  <a href="https://vuejs.org/" target="_blank" title="VueJS"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30"></a>
+  <img width="12">
+  <a href="https://wordpress.com/" target="_blank" title="WordPress"><img style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30"></a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/_.itscoda" target="_blank"><img alt="Instagram"
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+      height="35" alt="Instagram"></a>
+  <a href="itscoda9x@gmail.com" target="_blank"><img
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="Gmail"></a>
+  <a href="https://discord.com/users/919756168048558120" target="_blank"><img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="Discord"></a>
+  <a href="https://t.me/itscoda_ch" target="_blank"><img alt="Telegram"
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"
+      alt="Telegram"></a>
+  <!-- <a href="https://github.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=2E86C1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio"></a> -->
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/user-grinch/user-grinch/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <svg width="224px" height="30px" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <rect id="Rectangle" fill="#000000" x="0" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="7" y="22">0</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="32" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="39" y="22">1</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="64" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="71" y="22">1</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="96" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="103" y="22">0</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="128" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="135" y="22">1</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="160" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="167" y="22">0</tspan>
+      </text>
+      <rect id="Rectangle" fill="#000000" x="192" y="0.5" width="29" height="29"></rect>
+      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+        <tspan x="199" y="22">1</tspan>
+      </text>
+    </g>
+  </svg>
+</div>
+
+###
