@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div>
   <a href="https://www.cplusplus.com/" target="_blank" title="C++"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30"></a><img width="12">
   <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30"></a><img width="12">
   <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="30"></a><img width="12">
