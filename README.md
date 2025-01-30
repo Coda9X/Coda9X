@@ -12,7 +12,7 @@
 
 ###
 
-<img src="./assets/coda.svg" alt="Coda" height="150" title="Coda">
+<img align="right" src="./assets/coda.svg" alt="Coda" height="150" title="Coda">
 
 ###
 
@@ -65,46 +65,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/user-grinch/user-grinch/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <svg width="224px" height="30px" version="1.1" xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <rect id="Rectangle" fill="#000000" x="0" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="7" y="22">0</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="32" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="39" y="22">1</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="64" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="71" y="22">1</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="96" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="103" y="22">0</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="128" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="135" y="22">1</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="160" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="167" y="22">0</tspan>
-      </text>
-      <rect id="Rectangle" fill="#000000" x="192" y="0.5" width="29" height="29"></rect>
-      <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
-        <tspan x="199" y="22">1</tspan>
-      </text>
-    </g>
-  </svg>
+  <!-- df -->
 </div>
 
 ###
