@@ -2,13 +2,18 @@
 
 <h1 align="center">Welcome Back!</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coda9X&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true"height="150" alt="stats graph" />
+   <a href="https://github.com/Coda9X/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coda9X&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true"height="150" alt="stats graph" /></a>
+   <a href="https://github.com/Coda9X/" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coda9X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true"height="150" alt="languages graph" />
+   </a>
 </div>
 
 ###
 
-<img align="right" src="./assets/coda.svg" alt="Coda" height="150" title="Coda">
+ <a href="https://github.com/Coda9X/" target="_blank">
+<img align="right" src="./assets/coda.svg" alt="Coda" height="77" title="Coda">
+ </a>
 
 ###
 
@@ -32,18 +37,19 @@
   <a href="https://discord.com/users/919756168048558120" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"height="35" alt="Discord"></a>
   <a href="https://t.me/itscoda_ch" target="_blank"><img alt="Telegram"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"alt="Telegram"></a>
   <!-- <a href="https://github.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=2E86C1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio"></a> -->
+  <!-- <a href="https://github.com/Coda9X/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=2E86C1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio"></a> -->
 </div>
 
 ###
 
 <div align="center" style="display: flex;flex-direction: column;">
-  <div align="center">
+  <div align="left">
     <a href="https://discord.com/users/919756168048558120" target="_blank">
       <img width="40%" align="center" alt="Discord Status"
         src="https://lanyard.cnrad.dev/api/919756168048558120?bg=1f1f1f&borderRadius=5px">
     </a>
   </div>
-  <div align="center">
+  <div align="left">
     <a href="https://discord.com/users/919756168048558120" target="_blank">
       <img width="40%" align="center" alt="Weekly Stats"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=ICoda&layout=compact&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
@@ -56,7 +62,9 @@
 <br clear="both">
 
 <div align="center">
+   <a href="https://github.com/Coda9X/" target="_blank">
   <img src="./assets/count.svg" alt="Coda" title="Coda">
+   </a>
 </div>
 
 ###
