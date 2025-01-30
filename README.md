@@ -18,15 +18,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.cplusplus.com/" target="_blank" title="C++"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30"></a><img width="12">
-  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30"></a><img width="12">
-  <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="30"></a><img width="12">
-  <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"></a><img width="12">
-  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="30"></a><img width="12">
-  <a href="https://www.tailwindcss.com/" target="_blank" title="TailwindCSS"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30"></a><img width="12">
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30"></a><img width="12">
-  <a href="https://vuejs.org/" target="_blank" title="VueJS"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30"></a><img width="12">
-  <a href="https://wordpress.com/" target="_blank" title="WordPress"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30"></a></div>
+  <a href="https://www.cplusplus.com/" target="_blank" title="C++"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40"></a><img width="12">
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40"></a><img width="12">
+  <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40"></a><img width="12">
+  <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"></a><img width="12">
+  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40"></a><img width="12">
+  <a href="https://www.tailwindcss.com/" target="_blank" title="TailwindCSS"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40"></a><img width="12">
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40"></a><img width="12">
+  <a href="https://vuejs.org/" target="_blank" title="VueJS"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40"></a><img width="12">
+  <a href="https://wordpress.com/" target="_blank" title="WordPress"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40"></a></div>
 </div>
 
 ###
